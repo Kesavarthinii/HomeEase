@@ -11,36 +11,7 @@ Database: MySQL (via MySQL Extension)
 Server: Apache Tomcat 9+
 Build Tool: Maven
 
-📂 Project Structure
-hf/
-│── Deployment Descriptor: hf
-│── JAX-WS Web Services
-│── Java Resources
-│   └── Referenced Libraries
-│── src
-│   └── main
-│       ├── java
-│       │   └── hf
-│       │       ├── BookingServlet.java
-│       │       ├── DbUtil.java
-│       │       ├── DeletePropertyServlet.java
-│       │       ├── Hf.java
-│       │       ├── LoginServlet.java
-│       │       ├── LogoutServlet.java
-│       │       ├── SearchServlet.java
-│       │       └── SignupServlet.java
-│       └── webapp
-│           ├── images/
-│           ├── META-INF/
-│           ├── WEB-INF/
-│           ├── bookingConfirmation.jsp
-│           ├── login.jsp
-│           ├── ownerDashboard.jsp
-│           ├── post.jsp
-│           ├── searchResults.jsp
-│           ├── signup.jsp
-│           └── welcome.jsp
-│── build/
+
 
 🗄️ Database Schema
 Using MySQL with the following tables:
