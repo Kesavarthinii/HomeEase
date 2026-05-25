@@ -98,9 +98,3 @@ Using MySQL with the following tables:
 
 ---
 
-## 📌 Future Enhancements
-
-- Role-based access (Admin, Owner, User)  
-- Property filters (price range, BHK, location)  
-- Image upload for property listings  
-- Email notifications for bookings  
