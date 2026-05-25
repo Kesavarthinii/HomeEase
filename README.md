@@ -1,4 +1,4 @@
-#HomeEase
+# HomeEase
 HomeEase is a Java-based real estate web application built using JSP, Servlets, and MySQL. It allows users to search for properties, view listings, and make bookings. Property owners can post listings, and users can register/login to manage their bookings.
 
 The project demonstrates a full-stack Java EE workflow with MVC architecture.
